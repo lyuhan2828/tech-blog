@@ -12,11 +12,6 @@ const postdata = [
     user_id: 4
   },
   {
-    title: 'Pellentesque eget nunc.',
-    post_url: 'http://google.ca/nam/nulla/integer.aspx',
-    user_id: 7
-  },
-  {
     title: 'Morbi non quam nec dui luctus rutrum.',
     post_url: 'http://ucla.edu/consequat/nulla.html',
     user_id: 1
@@ -24,7 +19,7 @@ const postdata = [
   {
     title: 'Duis ac nibh.',
     post_url: 'http://theguardian.com/dui/vel/nisl/duis/ac/nibh.aspx',
-    user_id: 9
+    user_id: 3
   },
   {
     title: 'Curabitur at ipsum ac tellus semper interdum.',
@@ -39,7 +34,7 @@ const postdata = [
   {
     title: 'Donec dapibus.',
     post_url: 'https://instagram.com/ac/neque/duis/bibendum/morbi/non.xml',
-    user_id: 8
+    user_id: 4
   },
   {
     title: 'Nulla tellus.',
@@ -50,12 +45,12 @@ const postdata = [
     title:
       'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.',
     post_url: 'https://paginegialle.it/mattis/egestas.jsp',
-    user_id: 7
+    user_id: 2
   },
   {
     title: 'In hac habitasse platea dictumst.',
     post_url: 'http://wikia.com/turpis/eget.jpg',
-    user_id: 6
+    user_id: 4
   }
  
 ];

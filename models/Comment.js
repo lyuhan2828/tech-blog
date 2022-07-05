@@ -26,7 +26,7 @@ Comment.init(
         }
       },
       comment_text: {
-        type:DataTypes.INTEGER,
+        type:DataTypes.STRING,
         allowNull: false,
          validate: {
            len: [1]
@@ -37,7 +37,8 @@ Comment.init(
     sequelize,
     freezeTableName: true,
     underscored: true,
-    modelName: 'comment'
+    modelName: 'comment',
+    timestamps: true
   }
 );
 
