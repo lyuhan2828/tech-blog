@@ -1,4 +1,4 @@
 .env
 .DS_Store
-node_moduels
-package-locl.json
+node_modules
+package-lock.json
