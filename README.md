@@ -15,5 +15,5 @@ connect-session-sequelize
 
 ## Link
 https://github.com/lyuhan2828/tech-blog
-
+https://tech-blog168.herokuapp.com/
 
